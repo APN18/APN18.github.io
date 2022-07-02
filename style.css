@@ -19,8 +19,9 @@ header h1 {
 }
 
 .container2{
-    width: 700px;
-    margin: 0 auto;  
+    width: 750px;
+    margin: 0 auto;
+    text-align: center;  
 }
 
 section div {
